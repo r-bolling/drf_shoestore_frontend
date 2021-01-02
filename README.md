@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Link to Backend Repo
+https://github.com/kenzie-se-q4/drf-apis-in-a-nutshell-r-bolling/tree/react/api
+
 ## Available Scripts
 
 In the project directory, you can run:
